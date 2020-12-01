@@ -1,5 +1,7 @@
 ## my_first_calculator.js
 
+### In this app I used React.js to improve performance
+
 View the source code at this [link](https://github.com/iMykhailychenko/my_first_calculator.js/blob/main/src/my_first_calculator.js)
 
 ## You can test this app if you are brave enough

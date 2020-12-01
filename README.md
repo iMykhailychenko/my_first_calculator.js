@@ -5,7 +5,7 @@
 ________________________________
 
 
-View the source code at this [link](https://github.com/iMykhailychenko/my_first_calculator.js/blob/main/src/my_first_calculator.js)  
+###  View the source code at this [link](https://github.com/iMykhailychenko/my_first_calculator.js/blob/main/src/my_first_calculator.js)  
 
 `P.S. In this app I used React.js to improve performance`  
 ### You can test this app if you are brave enough

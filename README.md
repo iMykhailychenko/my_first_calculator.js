@@ -1,6 +1,6 @@
 ## my_first_calculator.js
 
-Inspired by [my_first_calculator.py](https://github.com/AceLewis/my_first_calculator.py) and [my_first_calculator.c](https://github.com/shellcxd3/my_first_calculator.c)
+> Inspired by [my_first_calculator.py](https://github.com/AceLewis/my_first_calculator.py) and [my_first_calculator.c](https://github.com/shellcxd3/my_first_calculator.c)
 
 ________________________________
 

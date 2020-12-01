@@ -4,7 +4,7 @@
 
 View the source code at this [link](https://github.com/iMykhailychenko/my_first_calculator.js/blob/main/src/my_first_calculator.js)
 
-## You can test this app if you are brave enough
+### You can test this app if you are brave enough
 https://my-first-calculator-js.netlify.app/
 
 Inspired by [my_first_calculator.py](https://github.com/AceLewis/my_first_calculator.py) and [my_first_calculator.c](https://github.com/shellcxd3/my_first_calculator.c)
